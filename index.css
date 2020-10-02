@@ -6,3 +6,7 @@ body {
 .jumbotron {
     background-image: url(https://images.immediate.co.uk/production/volatile/sites/23/2014/11/GettyImages-888995042-c1288ee.jpg?quality=90&crop=147px%2C265px%2C1605px%2C1069px&resize=620%2C413);
 }
+
+img{
+    border-radius: 20px;
+}
